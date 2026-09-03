@@ -5,7 +5,7 @@ Detta projekt omfattar en komplett, redundant enterprise-nätverksdesign för tv
 ---
 
 ## Nätverkstopologi
-![Nätverkstopologi](topologi.png)
+![Nätverkstopologi](Topologi.png)
 
 ---
 
